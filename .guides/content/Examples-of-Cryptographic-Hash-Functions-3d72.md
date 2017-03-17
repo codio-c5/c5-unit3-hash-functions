@@ -11,8 +11,8 @@ Published by NIST in 2001 as Federal Info. Processing Standard
 Includes six hash functions with digests that are 224, 256, 384 or 512 bits.
 
 |||guidance
-# Notes
+## Notes
 Common browsers such as Chrome and Internet Explorer no longer support SSL certificates that use SHA-1. 
 
-More information on SHA-1 can be found at https://en.wikipedia.org/wiki/SHA-1.  
+More information on SHA-1 can be found at [https://en.wikipedia.org/wiki/SHA-1](https://en.wikipedia.org/wiki/SHA-1).  
 |||

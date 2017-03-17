@@ -5,11 +5,11 @@
 - **Pseudorandomness:** The outputs pass tests designed to detect pseudorandomness.
 
 |||guidance
-# Notes
-On collision resistance:
+## Notes
+### On collision resistance:
 Because hash functions map long messages to short messages, there will be collisions; i.e., theoretically, there will be messages (sequences of bits) that will map to the same hash value, because the space of messages is larger than the space of hashes. The third property on the slide, collision resistance, means that finding two messages that have the same hash value is practically impossible.
 
-On pseudorandomness:
+### On pseudorandomness:
 Pseudorandomness means exhibiting characteristics of randomness (while not being actually random). There are tests to check sequences for randomness. The bits that are produced as a result of a hash should exhibit characteristics of randomness, hence passing such tests, but cryptographic hash functions are the result of a deterministic function, so we know that they are not truly random. 
 
 |||
