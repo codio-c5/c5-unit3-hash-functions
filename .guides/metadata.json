@@ -1,0 +1,163 @@
+{
+ "sections": [
+  {
+   "id": "d9e1fae0-9428-13da-5206-ff646aa29281",
+   "title": "Learning Objectives",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Learning-Objectives-d9e1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9186e57b-eab7-42f7-89fe-27b5a3476f4d",
+   "title": "Recall: Cryptography and the Main Tenets of Information Security",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Cryptography-and-the-Main-Tenets-of-Information-Security-9186.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "268bd872-6b60-43df-14b3-9158376790ff",
+   "title": "Recall: Symmetric Key Cryptography",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Symmetric-Key-Cryptography-268b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "da63309e-b055-77aa-4fe3-afc03750a380",
+   "title": "Recall: Asymmetric Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Asymmetric-Encryption-da63.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "223e72b7-ffa4-d0bf-3b5d-db0c835a43d6",
+   "title": "Recall: Problem of Integrity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Problem-of-Integrity-223e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f31b1777-cbb9-04a4-89ab-b732ffda66ce",
+   "title": "Hash Functions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hash-Functions-f31b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "70c9499c-8641-399e-4d43-fa151783f711",
+   "title": "Requirements for a Cryptographic Hash Function",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Requirements-for-a-Cryptographic-Hash-Function-70c9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8552b73e-a5d4-22a4-f158-57fb0306c4de",
+   "title": "Uses of Hash Functions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Uses-of-Hash-Functions-8552.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b285a87a-65d8-a15c-a53e-8a699908d8b1",
+   "title": "Uses of Hash Functions (continued) ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Uses-of-Hash-Functions--continued---b285.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3d727e8d-c6b4-1bd6-6bde-e03d2697918d",
+   "title": "Examples of Cryptographic Hash Functions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Examples-of-Cryptographic-Hash-Functions-3d72.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b83dfac3-82b1-27df-3bd3-070095db45b5",
+   "title": "Examples of Cryptographic Hash Functions (continued)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Examples-of-Cryptographic-Hash-Functions--continued--b83d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "64312cc1-149e-b3b0-de30-7fa4e50ad16d",
+   "title": "A Cryptographic Hash Function (SHA-1) at Work",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A-Cryptographic-Hash-Function--SHA-1--at-Work-6431.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b07a14d6-9c99-ecf5-ff00-0bce2b84a5b5",
+   "title": "Hands-on: Comparing Hashes of Some Strings",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hands-on--Comparing-Hashes-of-Some-Strings-b07a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6c6af561-e7d3-6a94-0548-10dbff12fa3f",
+   "title": "Hands-on: Comparing Hashes of Some Strings (continued)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hands-on--Comparing-Hashes-of-Some-Strings--continued--6c6a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "hideMenu": false
+}
