@@ -1,5 +1,7 @@
 **Review for 'codio' assessments (and next page)**
 
+# Comparing Hashes of Some Strings
+
 - [Click here for a hash function site ](http://www.fileformat.info/tool/hash.htm.)
 - Write a string in the string textbox and hit the hash button.
 - Scroll down to see the hash though various algorithms.

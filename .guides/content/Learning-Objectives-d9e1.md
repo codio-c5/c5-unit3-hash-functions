@@ -1,4 +1,4 @@
-Upon completion of this unit, students will be able to
+## Upon completion of this unit, students will be able to
 
 - Explain the use of hash functions in securing information. 
 - Describe the basic requirements for a cryptographic hash function.

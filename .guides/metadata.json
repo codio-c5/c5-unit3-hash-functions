@@ -1,6 +1,17 @@
 {
  "sections": [
   {
+   "id": "a125737a-4873-0876-9e53-99e0885176ce",
+   "title": "Applied Cryptography",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Applied-Cryptography-a125.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "d9e1fae0-9428-13da-5206-ff646aa29281",
    "title": "Learning Objectives",
    "files": [],
@@ -13,11 +24,11 @@
   },
   {
    "id": "9186e57b-eab7-42f7-89fe-27b5a3476f4d",
-   "title": "Recall: Cryptography and the Main Tenets of Information Security",
+   "title": "Recall: Main Tenets",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Recall--Cryptography-and-the-Main-Tenets-of-Information-Security-9186.md",
+   "content-file": ".guides/content/Recall--Main-Tenets-9186.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -90,11 +101,11 @@
   },
   {
    "id": "b285a87a-65d8-a15c-a53e-8a699908d8b1",
-   "title": "Uses of Hash Functions (continued) ",
+   "title": "More uses of Hash Functions",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Uses-of-Hash-Functions--continued---b285.md",
+   "content-file": ".guides/content/More-uses-of-Hash-Functions-b285.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -112,22 +123,22 @@
   },
   {
    "id": "b83dfac3-82b1-27df-3bd3-070095db45b5",
-   "title": "Examples of Cryptographic Hash Functions (continued)",
+   "title": "More Examples of Cryptographic Hash Functions",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Examples-of-Cryptographic-Hash-Functions--continued--b83d.md",
+   "content-file": ".guides/content/More-Examples-of-Cryptographic-Hash-Functions-b83d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "64312cc1-149e-b3b0-de30-7fa4e50ad16d",
-   "title": "A Cryptographic Hash Function (SHA-1) at Work",
+   "title": "A Cryptographic Hash Function",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/A-Cryptographic-Hash-Function--SHA-1--at-Work-6431.md",
+   "content-file": ".guides/content/A-Cryptographic-Hash-Function-6431.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -145,11 +156,11 @@
   },
   {
    "id": "6c6af561-e7d3-6a94-0548-10dbff12fa3f",
-   "title": "Hands-on: Comparing Hashes of Some Strings (continued)",
+   "title": "More Hands-on",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hands-on--Comparing-Hashes-of-Some-Strings--continued--6c6a.md",
+   "content-file": ".guides/content/More-Hands-on-6c6a.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

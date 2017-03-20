@@ -5,7 +5,7 @@
 - **Pseudorandomness:** The outputs pass tests designed to detect pseudorandomness.
 
 |||guidance
-## Notes
+## guidance
 ### On collision resistance:
 Because hash functions map long messages to short messages, there will be collisions; i.e., theoretically, there will be messages (sequences of bits) that will map to the same hash value, because the space of messages is larger than the space of hashes. The third property on the slide, collision resistance, means that finding two messages that have the same hash value is practically impossible.
 
