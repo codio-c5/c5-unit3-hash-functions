@@ -4,6 +4,7 @@
    "id": "a125737a-4873-0876-9e53-99e0885176ce",
    "title": "Applied Cryptography",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Applied-Cryptography-a125.md",
@@ -146,21 +147,21 @@
   {
    "id": "b07a14d6-9c99-ecf5-ff00-0bce2b84a5b5",
    "title": "Hands-on: Comparing Hashes of Some Strings",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: https://www.fileformat.info/tool/hash.htm",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Hands-on--Comparing-Hashes-of-Some-Strings-b07a.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "6c6af561-e7d3-6a94-0548-10dbff12fa3f",
-   "title": "More Hands-on",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/More-Hands-on-6c6a.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
