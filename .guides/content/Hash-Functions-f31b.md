@@ -4,6 +4,7 @@ A cryptographic hash function is a hash function that is considered practically 
 
 
 ![](.guides/img/hashfunction.png)
+
 |||guidance
 ## guidance
 For a regular hash function, inversion is not a concern, but for a cryptographic hash function it is an essential property.
